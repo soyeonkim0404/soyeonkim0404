@@ -1,6 +1,6 @@
-Hi there 👋 welcome to my world~! 
-I'm soyeon kim. I'm publisher and frontend developer. 
-I enjoy walking and bicycle riding.
+<p>Hi there 👋 welcome to my world~!</p>
+<p>I'm soyeon kim. I'm publisher and frontend developer.</p>
+<p>I enjoy walking and bicycle riding.</p>
 
 ## 🤟🏻 Skills
 
